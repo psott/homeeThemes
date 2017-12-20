@@ -39,6 +39,36 @@
 }
 /* Mein Zuhause Ende*/
 
+/* Widgets */
+.weatherGraphicWrap {
+    background: #000;
+}
+.weatherGraphicDayLabel {
+    color: #fff;
+}
+.CCdetailList.light {
+    color: #fff;
+    background-color: #000;
+}
+.itemListSubhead {
+    color: #000;
+}
+.dashboardValues {
+    background: #000;
+    color: #fff;
+}
+.itemListSubhead {
+    color: #fff;
+}
+.itemListSubhead {
+    color: #fff;
+    background-color: #000000;
+}
+.itemDetailWrap.lightBG {
+    background-color: #000;
+}
+/* Widgets Ende */
+
 /* Geräteliste */
 .itemListHeader {
     color: #fff;
