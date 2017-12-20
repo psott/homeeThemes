@@ -1,0 +1,93 @@
+/* Navigationsleiste */
+.mainNavWrap {
+    background-color: #000000;
+}
+.CCsettings5 {
+    background-color: #000000;
+}
+.mainNavWrap {
+    overflow-y: unset;
+}
+/* Navigationsleiste Ende */
+
+/* Mein Zuhause */
+.homeeColors {
+    display: none;
+}
+.sentence {
+    display: none;
+}
+.modeControlWrap {
+    margin-top: 30px;
+}
+.mode.active {
+    background: #38ff36!important;
+}
+.dashboardWrap {
+	overflow-y: unset;
+    background: #000;
+}
+.modeControlWrap {
+    background: #000;
+    border: 2px solid white;
+}
+.modeText.active {
+    color: #fff;
+}
+.modeText {
+    color: #fff;
+}
+/* Mein Zuhause Ende*/
+
+/* Geräteliste */
+.itemListHeader {
+    color: #fff;
+    background-color: #000;
+}
+.itemListSearchWrap {
+    background-color: #000000;
+}
+.itemListWrap {
+    background-color: #000;
+    overflow-y: unset;
+}
+.statisticsString {
+    color: #fff;
+}
+.CCitemListElementNA {
+    background-color: #000;
+}
+.CCitemListElement.light {
+    color: #fff;
+    background-color: #000;
+}
+.widgetWrap {
+    border: 2px solid white;
+	background: #000;
+}
+.widgetTitle {
+    color: #ffffff;
+}
+.widgetValuesWrap {
+    color: #ffffff;
+}
+
+/* Geräte bearbeiten */
+.itemDetailWrap {
+    overflow-y: unset;
+}
+.itemDetailHeader {
+    background-color: #000;
+    width: 49%;
+}
+.itemDetailWrap {
+    overflow-y: unset;
+    background-color: #000;
+}
+.chartTitleWrap {
+    background-color: #000;
+}
+.chartTitleWrap {
+    color: #fff;
+}
+/* Geräte bearbeiten */
